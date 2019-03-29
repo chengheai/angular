@@ -37,7 +37,7 @@
       border-radius: 2px;
     }
     .module:hover {
-      background-color: #EEE;
+      background-color: rgb(131, 9, 9);
       cursor: pointer;
       color: #607d8b;
     }
